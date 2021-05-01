@@ -1,6 +1,6 @@
 # AmazonProductSearchCypress
 
-Download project 
+Download and unzip project directory 
 Open terminal and go to project location or run command 'cd /your/project/path'
 Install Cypress or run command  'npm install cypress --save-dev' 
 To run project using test runner, use command './node_modules/.bin/cypress open'
